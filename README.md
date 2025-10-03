@@ -1,5 +1,5 @@
 ### NAME - PRIYANKA K
-### REG NO - 212223230062
+### REG NO - 212223230162
 ### EX6 Information Retrieval Using Vector Space Model in Python
 ### AIM: To implement Information Retrieval Using Vector Space Model in Python.
 ### Description: 
